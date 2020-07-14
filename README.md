@@ -4,4 +4,4 @@ If there is proper prediction of wind energy usage can be increased even more ex
 
 so we designed a model using polynomial regression which can predict the output upto 72hrs.
 
-The files are necessary components of the model.
+The files uploaded  are necessary components of the model.
